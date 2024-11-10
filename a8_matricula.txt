@@ -1,0 +1,5 @@
+Archivo: Generación de hash table y archivo de posting	Tiempo: 0.00393 segundos
+Archivo: Generación de hash table y archivo de posting	Tiempo: 0.00190 segundos
+Archivo: Generación de hash table y archivo de posting	Tiempo: 0.00147 segundos
+Archivo: Generación de hash table y archivo de posting	Tiempo: 0.00170 segundos
+Archivo: Generación de hash table y archivo de posting	Tiempo: 0.00142 segundos

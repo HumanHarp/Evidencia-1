@@ -1,0 +1,9 @@
+gato	049.html	1
+gato	102.html	1
+pato	108.html	3
+pato	444.html	2
+pato	321.html	6
+perro	108.html	2
+perro	005.html	2
+perro	444.html	4
+perro	321.html	8
